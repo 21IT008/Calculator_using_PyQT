@@ -38,10 +38,6 @@ cd GUI_calculator_pyQt5
 python controller.py
 ```
 
-## Screenshots
-
-![Alt text](image-1.png)
-
 ## Customization
 
 You can customize the styling and appearance of the calculator by modifying the view.py file. Adjust colors, fonts, and layouts to suit your preferences.
